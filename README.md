@@ -15,4 +15,4 @@ $ bash update.sh
 ```
 
 # 其他说明
-[在线源](https://kotori.sinaapp.com/hitokoto/json) 从[主站](http://hitokoto.us)同步，目前共有493条记录。
+[在线源](https://api.kotori.love/hitokoto/json) 从[主站](http://hitokoto.us)同步，目前共有493条记录。
